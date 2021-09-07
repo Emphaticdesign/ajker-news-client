@@ -1,0 +1,5 @@
+
+.homeBanner img{
+    height: 500px;
+    filter: brightness(40%);
+}

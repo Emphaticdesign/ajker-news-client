@@ -1,0 +1,11 @@
+.nationalNewsMin{
+    margin-top: 100px;
+    border: 2px solid rgb(146, 137, 137);
+}
+.nationalNewsMin img{
+    width: 250px;
+    height: 150px;
+}
+.nationalNewsMin button{
+    text-align: bottom;
+}

@@ -1,0 +1,11 @@
+.newsMin{
+    margin-top: 100px;
+    border: 2px solid rgb(146, 137, 137);
+}
+.newsMin img{
+    width: 350px;
+    height: 250px;
+}
+.newsMin button{
+    text-align: bottom;
+}
