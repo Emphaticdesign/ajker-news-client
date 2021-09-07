@@ -17,7 +17,7 @@ const PostNews = () => {
             category: data.category,
             img: imageURL
         };
-        const url = `http://localhost:5000/addNews`;
+        const url = `https://aqueous-hollows-04382.herokuapp.com/addNews`;
         console.log(addProductData);
 
         fetch(url, {

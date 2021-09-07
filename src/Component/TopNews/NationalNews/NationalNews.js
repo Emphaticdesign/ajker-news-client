@@ -8,7 +8,7 @@ const NationalNews = () => {
     const [news, setNews] = useState([]);
 
     useEffect(() => {
-        fetch('http://localhost:5000/nationalNews')
+        fetch('https://aqueous-hollows-04382.herokuapp.com/nationalNews')
             .then(res => res.json())
             .then(data => setNews(data))
     }, [])
